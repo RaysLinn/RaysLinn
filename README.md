@@ -18,6 +18,6 @@ languages = [Mandarin, Cantonese, English]
 *Computer Science* <br />
 *Geographic Information Science* <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaysLinn&hide=TeX,Jupyter-Notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaysLinn&hide=TeX,Jupyter%20Notebook&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaysLinn.visitor-badge)
