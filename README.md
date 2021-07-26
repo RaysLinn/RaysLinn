@@ -14,9 +14,9 @@ programming languages = [Python, HTML, CSS, JavaScript, Java]
 languages = [Mandarin, Cantonese, English]
 ```
 
-**University of Auckland**
-*Computer Science*
-*Geographic Information Science*
+**University of Auckland** <br />
+*Computer Science* <br />
+*Geographic Information Science* <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaysLinn&hide=TeX&layout=compact)
 
