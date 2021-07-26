@@ -1,10 +1,14 @@
 ### Hi there 👋 Here is Xizhe
 
+[![Instagram Badge](https://img.shields.io/badge/-raymond_lin_xi_zhe-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/raymond_lin_xi_zhe/)](https://www.instagram.com/raymond_lin_xi_zhe/)
+[![Gmail Badge](https://img.shields.io/badge/-linxizhe123@live.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linxizhe123@live.com)](mailto:linxizhe123@live.com)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaysLinn&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaysLinn.RaysLinn)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,3 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
