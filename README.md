@@ -9,7 +9,7 @@
 
 ``` Python
 pronouns = 'he' or 'him'
-currently learning = {'Frontend':'React', 'Backend': 'Flask'}
+currently learning = {'Frontend':'React', 'Backend': 'Flask and .net'}
 programming languages = [Python, HTML, CSS, JavaScript, Java]
 languages = [Mandarin, Cantonese, English]
 ```
