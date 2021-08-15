@@ -21,3 +21,4 @@ languages = [Mandarin, Cantonese, English]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaysLinn&hide=TeX,Jupyter%20Notebook&layout=compact)
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaysLinn.visitor-badge) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaysLinn.visitor-badge)
