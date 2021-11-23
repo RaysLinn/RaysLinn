@@ -7,12 +7,12 @@
 - 🌱 I’m currently learning frontend development;
 - 🔭 Languages: [Python, JS, HTML, CSS] -->
 
-``` Python
+<!--``` Python
 pronouns = 'he' or 'him'
 currently learning = {'Frontend':'React', 'Backend': 'Flask and .net'}
 programming languages = [Python, HTML, CSS, JavaScript, Java, C#]
 languages = [Mandarin, Cantonese, English]
-```
+```-->
 
 **University of Auckland** <br />
 *Computer Science* <br />
