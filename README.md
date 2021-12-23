@@ -11,7 +11,7 @@ languages = [Mandarin, Cantonese, English]
 ```-->
 
 **University of Auckland -> University of Melbourne** <br />
-*Computer Science* <br />
+*Computer Science/Information Technology* <br />
 *Geographic Information Science* *[spatial data analysis, remote sensing]* <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaysLinn&hide=TeX,Jupyter%20Notebook&layout=compact&count_private=true&show_icons=true&theme=graywhite)
