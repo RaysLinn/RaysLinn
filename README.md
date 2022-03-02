@@ -1,7 +1,7 @@
 ### Hi there 👋 Here is Xizhe
 
 [![Instagram Badge](https://img.shields.io/badge/-raymond_lin_xi_zhe-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/raymond_lin_xi_zhe/)](https://www.instagram.com/raymond_lin_xi_zhe/)
-[![Gmail Badge](https://img.shields.io/badge/-rayinnz1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayinnz1999@gmail.com)](mailto:rayinnz1999@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-xlin084@aucklanduni.ac.nz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xlin084@aucklanduni.ac.nz)](mailto:xlin084@aucklanduni.ac.nz)
 
 <!--``` Python
 pronouns = 'he' or 'him'
