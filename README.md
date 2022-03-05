@@ -18,4 +18,6 @@ languages = [Mandarin, Cantonese, English]
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaysLinn.visitor-badge) -->
 
+Jupyter notebook is excluded at Most Used Language.
+
 #### 天上白玉京
