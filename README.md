@@ -20,7 +20,7 @@ programming languages = [Python, HTML, CSS, JavaScript, Java, C#]
 languages = [Mandarin, Cantonese, English]
 ```-->
 
-**University of Auckland -> University of Melbourne** <br />
+**University of Auckland => University of Melbourne** <br />
 *Computer Science / Information Technology*<br />
 *Geographic Information Science* *[spatial data analysis, remote sensing]* <br />
 
