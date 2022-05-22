@@ -24,7 +24,7 @@ languages = [Mandarin, Cantonese, English]
 
 **University of Auckland -> University of Melbourne** <br />
 *Computer Science / Information Technology*<br />
-*Geographic Information Science* *[spatial data analysis, remote sensing]* <br />
+*Geographic Information Science* *[spatial computing, remote sensing]* <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaysLinn&hide=Jupyter%20Notebook,html&layout=compact&count_private=true&show_icons=true&theme=graywhite)
 
